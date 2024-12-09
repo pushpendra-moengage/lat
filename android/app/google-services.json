@@ -1,0 +1,200 @@
+{
+  "project_info": {
+    "project_number": "384728444550",
+    "project_id": "repoplay-466b7",
+    "storage_bucket": "repoplay-466b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384728444550:android:407a75179e92cb7ce7ab07",
+        "android_client_info": {
+          "package_name": "abc.def"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjtT0osE2EETdMdkUjrJ_d4afjGaFNamw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384728444550:android:576a93db29602694e7ab07",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.MoETest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjtT0osE2EETdMdkUjrJ_d4afjGaFNamw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384728444550:android:b903405b4190a7c9e7ab07",
+        "android_client_info": {
+          "package_name": "com.exa.lat.lat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjtT0osE2EETdMdkUjrJ_d4afjGaFNamw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384728444550:android:be09f95f443c1f14e7ab07",
+        "android_client_info": {
+          "package_name": "com.example.flutter_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjtT0osE2EETdMdkUjrJ_d4afjGaFNamw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384728444550:android:452e1d0aa68fb894e7ab07",
+        "android_client_info": {
+          "package_name": "com.example.flutter_playground"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjtT0osE2EETdMdkUjrJ_d4afjGaFNamw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384728444550:android:5439194d1dde1067e7ab07",
+        "android_client_info": {
+          "package_name": "com.example.ps_news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjtT0osE2EETdMdkUjrJ_d4afjGaFNamw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384728444550:android:3764a5cb855ae066e7ab07",
+        "android_client_info": {
+          "package_name": "com.moe.ap.supdocked.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjtT0osE2EETdMdkUjrJ_d4afjGaFNamw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384728444550:android:5360b920bb639338e7ab07",
+        "android_client_info": {
+          "package_name": "com.moengage.sampleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjtT0osE2EETdMdkUjrJ_d4afjGaFNamw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384728444550:android:a28a329a2e995944e7ab07",
+        "android_client_info": {
+          "package_name": "com.moengage.supdoc.flutter.supdoc_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjtT0osE2EETdMdkUjrJ_d4afjGaFNamw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384728444550:android:f9776c4b9de51e59e7ab07",
+        "android_client_info": {
+          "package_name": "com.supdoc.pushcall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjtT0osE2EETdMdkUjrJ_d4afjGaFNamw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
